@@ -7,6 +7,9 @@ typedef vector<int> vi;
 
 void solve()
 {
+    cout << "5" << '\n';
+    cout << "6" << '\n';
+    cout << "I'm counting!" << '\n';
 }
 
 int main()
